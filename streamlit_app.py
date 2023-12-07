@@ -1,4 +1,5 @@
-from PIL import Image from urllib.request import urlopen streamlit.image( Image.open(urlopen(df2[0][0])), width = 400, caption=product_caption )
+from PIL import Image 
+from urllib.request import urlopen streamlit.image( Image.open(urlopen(df2[0][0])), width = 400, caption=product_caption )
 
 import streamlit 
 
