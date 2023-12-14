@@ -10,7 +10,6 @@
 
 
 
-### You can access to the "app" we
-bsite with the following link:
+### You can access to the "app" website with the following link:
 
 https://zenaswebcatalog-xrdvzdiz7nawb7avksn2dn.streamlit.app/
